@@ -15,7 +15,7 @@ Different routes for url :
 8. /btns -> Add and delete buttons and a prompt disappearing in 3.5 seconds telling the user about their action
 9. /appbar -> shows the appbar with different menus and dropdowns
 10. /widget -> Dynamic dashboard that lets the user user add widgets and reorder panels that saves when clicked on save button
-11. /addwid -> Opening page that shows appbar and marketwatch
+11. /addwid -> Opening page that shows appbar and marketwatch (Recommended)
 12. /ddlbs -> Draggable component which shows dropdowns and text boxes for BuySell bar
 13. /chartdash -> Dashboard component that shows marketwatch and chart side by side with options to resize and close chart
 14. /tabcomp -> Lets the user add new tabs. Useful when making different wachlist like auto, IT, banks. User can add the name of watchlist. Also demostrates the minimize function when clicked get converted into a tab
