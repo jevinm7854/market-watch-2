@@ -26,3 +26,15 @@ Components used in -
 2. /ddl -> Appbar, DDL_Comp, DDL_BuySell, Stat
 
 Built using Syncfusion
+
+Addwid component- 
+![addwid](https://github.com/jevinm7854/market-watch-2/assets/103294638/5a3c71e6-3e87-4d24-b8e6-d87cdaf68b1d)
+
+chartdash component-
+![chartdash](https://github.com/jevinm7854/market-watch-2/assets/103294638/149b99fd-d93a-4cd5-9a03-1f0a83ba6a8e)
+
+DDL component-
+![ddl](https://github.com/jevinm7854/market-watch-2/assets/103294638/b53da496-527c-435e-90ba-a4db397b5a84)
+
+
+
